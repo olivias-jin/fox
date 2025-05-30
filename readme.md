@@ -1,4 +1,3 @@
-# Three.js Journey
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,3 +13,8 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+## Debug
+Add `#debug` to the end of the website address —  
+you can then twist the controls.
+
+![Description](images/image.png)
